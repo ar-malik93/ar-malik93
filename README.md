@@ -8,7 +8,7 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35" /> About Me
 </h3>
 <hr/>
-<img src='https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966' align='left' width="400" height="260" >
+<img src='https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966' align='left' width="300" height="260" >
 
  🔭 I am currently working as **Full Stack Engineer.** <br />
  💻 I love to code and learn anything about it.<br/> 
@@ -82,6 +82,8 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ar-malik93&layout=compact&langs_count=8&theme=algolia"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ar-malik93&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
 </a>
+</p>
+<p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ar-malik93&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
